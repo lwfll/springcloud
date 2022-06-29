@@ -27,7 +27,7 @@
     <swaggerUi.version>1.8.9</swaggerUi.version>
     <mybatisplus.version>3.0.7.1</mybatisplus.version>
     <jjwt.version>0.9.0</jjwt.version>
-    <poi.version>3.17</poi.version>
+    <poi.version>4.1.1</poi.version>
     <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
     <springfoxSwaggerUi.version>2.9.2</springfoxSwaggerUi.version>
     <pool.version>2.4.2</pool.version>
